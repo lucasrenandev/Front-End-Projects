@@ -30,6 +30,7 @@
 ## PROGRAMAÇÃO
 *Projetos/Estudos com linguagens de programação.*
 
+* [Contador com Dark Mode](https://github.com/lucasrenandns/contador)
 * [Gerador de QR Code V2.0](https://github.com/lucasrenandns/gerador-de-qrcode-v2.0)
 * [Gerador de QR Code](https://github.com/lucasrenandns/gerador-de-qrcode)
 * [Dark Mode V2.0](https://github.com/lucasrenandns/dark-mode-v2.0)
