@@ -36,6 +36,7 @@
 * [Dark Mode V2.0](https://github.com/lucasrenandns/dark-mode-v2.0)
 * [Dark Mode](https://github.com/lucasrenandns/dark-mode)
 * [Slider Games Animado](https://github.com/lucasrenandns/slider-games-animado)
+* [Relógio Digital V2.0](https://github.com/lucasrenandns/Relogio-Digital-v2.0)
 * [Relógio Digital](https://github.com/lucasrenandns/Relogio-Digital)
 * [Cronômetro Simples](https://github.com/lucasrenandns/cronometro-simples)
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
