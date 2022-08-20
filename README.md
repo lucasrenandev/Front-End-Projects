@@ -39,6 +39,7 @@
 * [Slider Games Animado](https://github.com/lucasrenandns/slider-games-animado)
 * [Relógio Digital V2.0](https://github.com/lucasrenandns/Relogio-Digital-v2.0)
 * [Relógio Digital](https://github.com/lucasrenandns/Relogio-Digital)
+* [Cronômetro V2.0](https://github.com/lucasrenandns/cronometro-v2.0)
 * [Cronômetro Simples](https://github.com/lucasrenandns/cronometro-simples)
 * [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
 * [Show Password](https://github.com/lucasrenandns/show-password)
