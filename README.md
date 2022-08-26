@@ -19,6 +19,7 @@
 * [Slider Imagens](https://github.com/lucasrenandns/slider-html-css)
 * [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
 * [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
+* [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login-simples)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login-3)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
@@ -26,7 +27,6 @@
 * [One Page](https://github.com/lucasrenandns/one-page-html-css)
 * [One Page](https://github.com/lucasrenandns/one-page)
 * [Flampic](https://github.com/lucasrenandns/flampic)
-* [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 
 ## PROGRAMAÇÃO
 *Projetos/Estudos com linguagens de programação.*
