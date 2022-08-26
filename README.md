@@ -17,7 +17,7 @@
 * [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
 * [Slider Games](https://github.com/lucasrenandns/slider-games)
 * [Slider Imagens](https://github.com/lucasrenandns/slider-html-css)
-* [Tela de Login Simples](https://github.com/lucasrenandns/tela-de-login-simples)
+* [Tela de Login](https://github.com/lucasrenandns/tela-de-login-simples)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login-3)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
