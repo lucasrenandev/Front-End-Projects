@@ -38,6 +38,7 @@
 * [Gerador de QR Code](https://github.com/lucasrenandns/gerador-de-qrcode)
 * [Dark Mode V2.0](https://github.com/lucasrenandns/dark-mode-v2.0)
 * [Dark Mode](https://github.com/lucasrenandns/dark-mode)
+* [Slider Imagens](https://github.com/lucasrenandns/slider-images)
 * [Slider Games Animado](https://github.com/lucasrenandns/slider-games-animado)
 * [Relógio Digital V2.0](https://github.com/lucasrenandns/Relogio-Digital-v2.0)
 * [Relógio Digital](https://github.com/lucasrenandns/Relogio-Digital)
