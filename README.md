@@ -17,11 +17,11 @@
 * [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
 * [Slider Games](https://github.com/lucasrenandns/slider-games)
 * [Slider Imagens](https://github.com/lucasrenandns/slider-html-css)
-* [Tela de Login](https://github.com/lucasrenandns/tela-de-login-3)
-* [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 * [Tela de Login Simples](https://github.com/lucasrenandns/tela-de-login-simples)
-* [One Page](https://github.com/lucasrenandns/one-page-html-css)
+* [Tela de Login](https://github.com/lucasrenandns/tela-de-login-3)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
+* [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
+* [One Page](https://github.com/lucasrenandns/one-page-html-css)
 * [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
 * [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
 * [One Page](https://github.com/lucasrenandns/one-page)
@@ -31,6 +31,7 @@
 ## PROGRAMAÇÃO
 *Projetos/Estudos com linguagens de programação.*
 
+* [Tela de Login com Dark Mode](https://github.com/lucasrenandns/tela-de-login-v3.0)
 * [Projeto Lâmpada](https://github.com/lucasrenandns/projeto-lampada)
 * [Contador com Dark Mode](https://github.com/lucasrenandns/contador)
 * [Gerador de QR Code V2.0](https://github.com/lucasrenandns/gerador-de-qrcode-v2.0)
