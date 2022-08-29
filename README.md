@@ -31,6 +31,7 @@
 ## PROGRAMAÇÃO
 *Projetos/Estudos com linguagens de programação.*
 
+* [Card Animado](https://github.com/lucasrenandns/card-animado)
 * [Tela de Login com Dark Mode](https://github.com/lucasrenandns/tela-de-login-v3.0)
 * [Projeto Lâmpada](https://github.com/lucasrenandns/projeto-lampada)
 * [Contador com Dark Mode](https://github.com/lucasrenandns/contador)
