@@ -11,6 +11,7 @@
 * [Landing Page - Marketing](https://github.com/lucasrenandns/landing-page-marketing)
 * [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
+* [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 * [Projeto - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Projeto - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Projeto - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
@@ -22,12 +23,11 @@
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login-simples)
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
-* [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
-* [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
-* [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 * [Projeto One Page](https://github.com/lucasrenandns/one-page-html-css)
 * [Projeto One Page](https://github.com/lucasrenandns/one-page)
 * [Projeto Flampic](https://github.com/lucasrenandns/flampic)
+* [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
+* [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
 
 ## PROGRAMAÇÃO
 *Projetos/Estudos com linguagens de programação.*
