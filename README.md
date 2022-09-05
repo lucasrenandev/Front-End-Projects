@@ -22,12 +22,12 @@
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login-3)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login-simples)
+* [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
+* [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 * [Projeto One Page](https://github.com/lucasrenandns/one-page-html-css)
 * [Projeto One Page](https://github.com/lucasrenandns/one-page)
 * [Projeto Flampic](https://github.com/lucasrenandns/flampic)
-* [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
-* [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
 
 ## PROGRAMAÇÃO
 *Projetos/Estudos com linguagens de programação.*
