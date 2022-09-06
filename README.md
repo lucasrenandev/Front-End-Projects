@@ -1,10 +1,9 @@
 # Repositório de estudos 📘 💻
 
-## HTML e CSS
-*Projetos/Estudos com HTML e CSS.*
+## Projetos/Estudos com HTML e CSS.
 
-* [Formulário com envio de e-mail](https://github.com/lucasrenandns/formulario)
-* [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
+#### Landing Page
+
 * [Landing Page - Spider-Man](https://github.com/lucasrenandns/landing-page-spiderman)
 * [Landing Page - Refreshment](https://github.com/lucasrenandns/landing-page-refreshment)
 * [Landing Page - Services](https://github.com/lucasrenandns/landing-page-services)
@@ -12,22 +11,41 @@
 * [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
 * [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
+
+#### Website
+* [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
 * [Projeto - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Projeto - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Projeto - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
-* [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
-* [Slider Games](https://github.com/lucasrenandns/slider-games)
-* [Slider Imagens](https://github.com/lucasrenandns/slider-html-css)
-* [Tela de Login](https://github.com/lucasrenandns/tela-de-login-3)
-* [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
-* [Tela de Login](https://github.com/lucasrenandns/tela-de-login-simples)
-* [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
-* [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
-* [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
 * [Projeto One Page](https://github.com/lucasrenandns/one-page-html-css)
 * [Projeto One Page](https://github.com/lucasrenandns/one-page)
 * [Projeto Flampic](https://github.com/lucasrenandns/flampic)
+
+#### Tela de Login
+
+* [Tela de Login](https://github.com/lucasrenandns/tela-de-login-3)
+* [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
+* [Tela de Login](https://github.com/lucasrenandns/tela-de-login-simples)
+
+#### Slider
+
+* [Slider Games](https://github.com/lucasrenandns/slider-games)
+* [Slider Imagens](https://github.com/lucasrenandns/slider-html-css)
+
+#### Formulário 
+* [Formulário com envio de e-mail](https://github.com/lucasrenandns/formulario)
+* [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
+
+#### CSS Grid
+* [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
+
+#### Página de Produto
+* [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
+* [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
+
+#### One Page
+
 
 ## PROGRAMAÇÃO
 *Projetos/Estudos com linguagens de programação.*
