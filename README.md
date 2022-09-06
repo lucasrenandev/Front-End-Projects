@@ -12,14 +12,18 @@
 * [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 
 #### Website
-* [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
+* [Website - Cidades](https://github.com/lucasrenandns/website-cidades
+* [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Projeto - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Projeto - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Projeto - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
-* [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Projeto One Page](https://github.com/lucasrenandns/one-page-html-css)
 * [Projeto One Page](https://github.com/lucasrenandns/one-page)
 * [Projeto Flampic](https://github.com/lucasrenandns/flampic)
+
+#### Formulário 
+* [Formulário com envio de e-mail](https://github.com/lucasrenandns/formulario)
+* [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 
 #### Tela de Login
 
@@ -31,10 +35,6 @@
 
 * [Slider Games](https://github.com/lucasrenandns/slider-games)
 * [Slider Imagens](https://github.com/lucasrenandns/slider-html-css)
-
-#### Formulário 
-* [Formulário com envio de e-mail](https://github.com/lucasrenandns/formulario)
-* [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 
 #### CSS Grid
 * [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
