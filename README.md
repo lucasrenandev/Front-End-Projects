@@ -12,7 +12,8 @@
 * [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 
 #### Website
-* [Website - Cidades](https://github.com/lucasrenandns/website-cidades
+
+* [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Projeto - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Projeto - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
