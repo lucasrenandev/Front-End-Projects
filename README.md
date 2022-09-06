@@ -1,6 +1,5 @@
-# Repositório de estudos 📘 💻
 
-## Projetos/Estudos com HTML e CSS.
+# *Projetos/Estudos com HTML e CSS.*
 
 #### Landing Page
 
@@ -44,11 +43,7 @@
 * [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
 * [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
 
-#### One Page
-
-
-## PROGRAMAÇÃO
-*Projetos/Estudos com linguagens de programação.*
+# *Projetos/Estudos com linguagens de programação.*
 
 * [Google Clone](https://github.com/lucasrenandns/Google-Clone)
 * [Card Animado](https://github.com/lucasrenandns/card-animado)
