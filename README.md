@@ -3,6 +3,7 @@
 
 #### Landing Page
 
+* [Landing Page - StarBucks](https://github.com/lucasrenandns/landing-page-starbucks)
 * [Landing Page - Spider-Man](https://github.com/lucasrenandns/landing-page-spiderman)
 * [Landing Page - Refreshment](https://github.com/lucasrenandns/landing-page-refreshment)
 * [Landing Page - Services](https://github.com/lucasrenandns/landing-page-services)
