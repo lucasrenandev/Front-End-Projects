@@ -25,7 +25,16 @@
 * [Projeto One Page](https://github.com/lucasrenandns/one-page)
 * [Projeto Flampic](https://github.com/lucasrenandns/flampic)
 
+#### CSS Animation
+
+* [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
+
+#### CSS Grid
+
+* [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
+
 #### Formulário 
+
 * [Formulário com envio de e-mail](https://github.com/lucasrenandns/formulario)
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 
@@ -39,9 +48,6 @@
 
 * [Slider Games](https://github.com/lucasrenandns/slider-games)
 * [Slider Imagens](https://github.com/lucasrenandns/slider-html-css)
-
-#### CSS Grid
-* [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
 
 #### Página de Produto
 * [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
