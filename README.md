@@ -27,6 +27,7 @@
 
 #### CSS Animation
 
+* [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
 * [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
 
 #### CSS Grid
