@@ -30,8 +30,9 @@
 * [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
 * [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
 
-#### CSS Grid
+#### CSS Grid - Flexbox
 
+* [Css Grid - Flexbox](https://github.com/lucasrenandns/CSS_Grid_Flexbox)
 * [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
 
 #### Formulário 
