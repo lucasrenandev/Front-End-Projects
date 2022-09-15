@@ -25,15 +25,15 @@
 * [Projeto One Page](https://github.com/lucasrenandns/one-page)
 * [Projeto Flampic](https://github.com/lucasrenandns/flampic)
 
-#### CSS Animation
-
-* [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
-* [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
-
 #### CSS Grid - Flexbox
 
 * [Css Grid - Flexbox](https://github.com/lucasrenandns/CSS_Grid_Flexbox)
 * [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
+
+#### CSS Animation
+
+* [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
+* [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
 
 #### Formulário 
 
