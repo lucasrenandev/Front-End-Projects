@@ -33,6 +33,7 @@
 #### CSS Animation
 
 * [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
+* [Efeito - Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
 * [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
 
 #### Formulário 
