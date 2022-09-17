@@ -16,7 +16,6 @@
 
 * [Bully Game](https://github.com/lucasrenandns/Bully_Game)
 * [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
-* [Website - Scroll suave](https://github.com/lucasrenandns/web_Scroll)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Projeto - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Projeto - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
@@ -60,6 +59,8 @@
 # *Projetos/Estudos com linguagens de programação.*
 
 * [Google Clone](https://github.com/lucasrenandns/Google-Clone)
+* [Scroll suave v2.0](https://github.com/lucasrenandns/web_Scroll_v2.0)
+* [Scroll suave v1.0](https://github.com/lucasrenandns/web_Scroll)
 * [Card Animado](https://github.com/lucasrenandns/card-animado)
 * [Tela de Login com Dark Mode](https://github.com/lucasrenandns/tela-de-login-v3.0)
 * [Projeto Lâmpada](https://github.com/lucasrenandns/projeto-lampada)
