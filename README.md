@@ -33,6 +33,7 @@
 #### CSS Animation
 
 * [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
+* [Esfera de 7 Estrelas](https://github.com/lucasrenandns/Esfera_Sete_Estrelas)
 * [Efeito - Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
 * [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
 
