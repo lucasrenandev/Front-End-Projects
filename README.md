@@ -58,6 +58,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Gerador de Cores](https://github.com/lucasrenandns/Gerador_de_Cores)
 * [Google Clone](https://github.com/lucasrenandns/Google-Clone)
 * [Scroll suave v2.0](https://github.com/lucasrenandns/web_Scroll_v2.0)
 * [Scroll suave v1.0](https://github.com/lucasrenandns/web_Scroll)
