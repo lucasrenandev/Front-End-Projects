@@ -58,6 +58,8 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+
+* [Gerador de Senhas](https://github.com/lucasrenandns/gerador_Senha)
 * [Gerador de Cores](https://github.com/lucasrenandns/Gerador_de_Cores)
 * [Google Clone](https://github.com/lucasrenandns/Google-Clone)
 * [Scroll suave v2.0](https://github.com/lucasrenandns/web_Scroll_v2.0)
@@ -76,7 +78,6 @@
 * [Cronômetro Simples](https://github.com/lucasrenandns/cronometro-simples)
 * [Dark Mode V2.0](https://github.com/lucasrenandns/dark-mode-v2.0)
 * [Dark Mode](https://github.com/lucasrenandns/dark-mode)
-* [Gerador de Senha](https://github.com/lucasrenandns/gerador-de-senha)
 * [Show Password](https://github.com/lucasrenandns/show-password)
 * [Efeito Maquina de escrever](https://github.com/lucasrenandns/efeito-maquina-de-escrever)
 * [Consulta de CEP](https://github.com/lucasrenandns/consulta-cep)
