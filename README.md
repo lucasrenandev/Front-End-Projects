@@ -24,17 +24,17 @@
 * [Projeto One Page](https://github.com/lucasrenandns/one-page)
 * [Projeto Flampic](https://github.com/lucasrenandns/flampic)
 
-#### CSS Grid - Flexbox
-
-* [Css Grid - Flexbox](https://github.com/lucasrenandns/CSS_Grid_Flexbox)
-* [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
-
 #### CSS Animation
 
 * [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
 * [Esfera de 7 Estrelas](https://github.com/lucasrenandns/Esfera_Sete_Estrelas)
 * [Efeito - Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
 * [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
+
+#### CSS Grid - Flexbox
+
+* [Css Grid - Flexbox](https://github.com/lucasrenandns/CSS_Grid_Flexbox)
+* [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
 
 #### Formulário 
 
