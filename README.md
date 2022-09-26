@@ -29,6 +29,7 @@
 * [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
 * [Esfera de 7 Estrelas](https://github.com/lucasrenandns/Esfera_Sete_Estrelas)
 * [Efeito - Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
+* [Menu Animado](https://github.com/lucasrenandns/menu_Animado)
 * [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
 
 #### CSS Grid - Flexbox
