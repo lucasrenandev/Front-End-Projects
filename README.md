@@ -3,6 +3,7 @@
 
 #### Landing Page
 
+* [Landing Page - The Boys](https://github.com/lucasrenandns/landing-page_TheBoys)
 * [Landing Page - StarBucks](https://github.com/lucasrenandns/landing-page-starbucks)
 * [Landing Page - Spider-Man](https://github.com/lucasrenandns/landing-page-spiderman)
 * [Landing Page - Refreshment](https://github.com/lucasrenandns/landing-page-refreshment)
