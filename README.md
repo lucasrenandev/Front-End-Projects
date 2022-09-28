@@ -31,8 +31,9 @@
 * [Esfera de 7 Estrelas](https://github.com/lucasrenandns/Esfera_Sete_Estrelas)
 * [Efeito - Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
 * [Menu Animado](https://github.com/lucasrenandns/menu_Animado)
+* [Tela de Loading](https://github.com/lucasrenandns/animation_Loading)
 * [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
-* [Carregamento - LinkedIn](https://github.com/lucasrenandns/animation_LinkedIn)
+* [Tela de Loading - LinkedIn](https://github.com/lucasrenandns/animation_LinkedIn)
 
 #### CSS Grid - Flexbox
 
