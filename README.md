@@ -32,6 +32,7 @@
 * [Efeito - Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
 * [Menu Animado](https://github.com/lucasrenandns/menu_Animado)
 * [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
+* [Carregamento - LinkedIn](https://github.com/lucasrenandns/animation_LinkedIn)
 
 #### CSS Grid - Flexbox
 
