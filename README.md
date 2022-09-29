@@ -17,8 +17,8 @@
 #### Website
 
 * [Bully Game](https://github.com/lucasrenandns/Bully_Game)
-* [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
+* [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
 * [Projeto - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Projeto - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Projeto - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
