@@ -33,6 +33,7 @@
 * [Efeito - Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
 * [Menu Animado](https://github.com/lucasrenandns/menu_Animado)
 * [Tela de Loading](https://github.com/lucasrenandns/animation_Loading)
+* [Texto Animado](https://github.com/lucasrenandns/texto_Animado_v2.0)
 * [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
 * [Tela de Loading - LinkedIn](https://github.com/lucasrenandns/animation_LinkedIn)
 
