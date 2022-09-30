@@ -12,7 +12,6 @@
 * [Landing Page - Marketing](https://github.com/lucasrenandns/landing-page-marketing)
 * [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
-* [Landing Page Simples](https://github.com/lucasrenandns/landing-page-simple)
 
 #### Website
 
