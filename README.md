@@ -73,7 +73,6 @@
 * [Calculadora simples](https://github.com/lucasrenandns/calculadora)
 * [Caixa de Pop-Up](https://github.com/lucasrenandns/Pop-Up)
 * [Clone - Google](https://github.com/lucasrenandns/Google-Clone)
-* [Calculadora simples](https://github.com/lucasrenandns/calculadora)
 * [Scroll suave v2.0](https://github.com/lucasrenandns/web_Scroll_v2.0)
 * [Scroll suave v1.0](https://github.com/lucasrenandns/web_Scroll)
 * [Card Animado](https://github.com/lucasrenandns/card-animado)
