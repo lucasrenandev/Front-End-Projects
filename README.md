@@ -67,6 +67,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Gerador de Gradiente](https://github.com/lucasrenandns/Gerador_de_Gradiente)
 * [Calculadora](https://github.com/lucasrenandns/menu_Animado)
 * [Caixa Pop-Up](https://github.com/lucasrenandns/Pop-Up)
 * [Gerador de Senhas](https://github.com/lucasrenandns/gerador_Senha)
