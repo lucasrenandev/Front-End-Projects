@@ -68,11 +68,11 @@
 # *Projetos/Estudos com linguagens de programação.*
 
 * [Gerador de Gradiente](https://github.com/lucasrenandns/Gerador_de_Gradiente)
-* [Calculadora](https://github.com/lucasrenandns/menu_Animado)
-* [Caixa Pop-Up](https://github.com/lucasrenandns/Pop-Up)
 * [Gerador de Senhas](https://github.com/lucasrenandns/gerador_Senha)
 * [Gerador de Cores](https://github.com/lucasrenandns/Gerador_de_Cores)
+* [Caixa de Pop-Up](https://github.com/lucasrenandns/Pop-Up)
 * [Google Clone](https://github.com/lucasrenandns/Google-Clone)
+* [Calculadora](https://github.com/lucasrenandns/menu_Animado)
 * [Scroll suave v2.0](https://github.com/lucasrenandns/web_Scroll_v2.0)
 * [Scroll suave v1.0](https://github.com/lucasrenandns/web_Scroll)
 * [Card Animado](https://github.com/lucasrenandns/card-animado)
