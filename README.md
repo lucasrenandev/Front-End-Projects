@@ -67,6 +67,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Relógio Analógico](https://github.com/lucasrenandns/Relogio_Analogico)
 * [Gerador de Gradiente](https://github.com/lucasrenandns/Gerador_de_Gradiente)
 * [Gerador de Senhas](https://github.com/lucasrenandns/gerador_Senha)
 * [Gerador de Cores](https://github.com/lucasrenandns/Gerador_de_Cores)
