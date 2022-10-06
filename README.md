@@ -21,9 +21,9 @@
 * [Projeto - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Projeto - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Projeto - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
-* [Projeto One Page](https://github.com/lucasrenandns/one-page-html-css)
-* [Projeto One Page](https://github.com/lucasrenandns/one-page)
-* [Projeto Flampic](https://github.com/lucasrenandns/flampic)
+* [Projeto - One Page](https://github.com/lucasrenandns/one-page-html-css)
+* [Projeto - One Page](https://github.com/lucasrenandns/one-page)
+* [Projeto - Flampic](https://github.com/lucasrenandns/flampic)
 
 #### CSS Animation
 
