@@ -68,6 +68,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Game - T-Rex](https://github.com/lucasrenandns/Game_T-Rex)
 * [Seletor - Background](https://github.com/lucasrenandns/seletor_Background)
 * [Efeito de Digitação](https://github.com/lucasrenandns/efeito_Digitacao)
 * [Relógio Analógico](https://github.com/lucasrenandns/Relogio_Analogico)
