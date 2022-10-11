@@ -99,7 +99,6 @@
 * [Efeito Maquina de escrever](https://github.com/lucasrenandns/efeito-maquina-de-escrever)
 * [Consulta de CEP](https://github.com/lucasrenandns/consulta-cep)
 * [Menu Mobile](https://github.com/lucasrenandns/menu-mobile)
-* [Mini projetos em JavaScript](https://github.com/lucasrenandns/mini-projetos-javascript)
 * [Estudos em JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
 * [Estudo/Curso JavaScript](https://github.com/lucasrenandns/JavaScript)
 * [Estudo/Curso Python](https://github.com/lucasrenandns/Python-3)
