@@ -68,6 +68,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Game - JoKenPô](https://github.com/lucasrenandns/PedraPapelTesoura)
 * [Contador Regressivo](https://github.com/lucasrenandns/Contador_Regressivo)
 * [Projeto - Semáforo](https://github.com/lucasrenandns/projeto_Semaforo)
 * [Game - T-Rex](https://github.com/lucasrenandns/Game_T-Rex)
