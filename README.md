@@ -68,7 +68,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
-* [Jodo da Memória](https://github.com/lucasrenandns/Memory_Game)
+* [Jogo da Memória](https://github.com/lucasrenandns/Memory_Game)
 * [Game - JoKenPô](https://github.com/lucasrenandns/PedraPapelTesoura)
 * [Contador Regressivo](https://github.com/lucasrenandns/Contador_Regressivo)
 * [Projeto - Semáforo](https://github.com/lucasrenandns/projeto_Semaforo)
