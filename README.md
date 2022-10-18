@@ -68,6 +68,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Counter Simple](https://github.com/lucasrenandns/counter)
 * [Color Flipper](https://github.com/lucasrenandns/Color_Flipper)
 * [Jogo da Memória](https://github.com/lucasrenandns/Memory_Game)
 * [Game - JoKenPô](https://github.com/lucasrenandns/PedraPapelTesoura)
