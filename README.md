@@ -89,7 +89,7 @@
 * [Scroll suave v2.0](https://github.com/lucasrenandns/web_Scroll_v2.0)
 * [Scroll suave v1.0](https://github.com/lucasrenandns/web_Scroll)
 * [Card Animado](https://github.com/lucasrenandns/card-animado)
-* [Tela de Login com Dark Mode](https://github.com/lucasrenandns/tela-de-login-v3.0)
+* [Tela de Login](https://github.com/lucasrenandns/tela-de-login-v3.0)
 * [Projeto Lâmpada](https://github.com/lucasrenandns/projeto-lampada)
 * [Contador com Dark Mode](https://github.com/lucasrenandns/contador)
 * [Gerador de QR Code V2.0](https://github.com/lucasrenandns/gerador-de-qrcode-v2.0)
