@@ -69,8 +69,8 @@
 # *Projetos/Estudos com linguagens de programação.*
 
 * [Digital Clock](https://github.com/lucasrenandns/Digital_Clock)
-* [Review](https://github.com/lucasrenandns/review)
-* [Counter](https://github.com/lucasrenandns/counter)
+* [Review - Games](https://github.com/lucasrenandns/review)
+* [Counter Simples](https://github.com/lucasrenandns/counter)
 * [Color Flipper](https://github.com/lucasrenandns/Color_Flipper)
 * [Jogo da Memória](https://github.com/lucasrenandns/Memory_Game)
 * [Game - JoKenPô](https://github.com/lucasrenandns/PedraPapelTesoura)
