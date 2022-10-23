@@ -68,6 +68,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Cronômetro v3.0](https://github.com/lucasrenandns/cronometro-v3.0)
 * [Digital Clock](https://github.com/lucasrenandns/Digital_Clock)
 * [Review - Games](https://github.com/lucasrenandns/review)
 * [Counter Simple](https://github.com/lucasrenandns/counter)
