@@ -72,7 +72,7 @@
 * [Cronômetro v3.0](https://github.com/lucasrenandns/cronometro-v3.0)
 * [Digital Clock](https://github.com/lucasrenandns/Digital_Clock)
 * [Review - Games](https://github.com/lucasrenandns/review)
-* [Counter](https://github.com/lucasrenandns/counter)
+* [Counter Simple](https://github.com/lucasrenandns/counter)
 * [Color Flipper](https://github.com/lucasrenandns/Color_Flipper)
 * [Jogo da Memória](https://github.com/lucasrenandns/Memory_Game)
 * [Game - JoKenPô](https://github.com/lucasrenandns/PedraPapelTesoura)
