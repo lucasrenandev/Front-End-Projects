@@ -68,6 +68,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Consulta de Cep v2.0](https://github.com/lucasrenandns/consulta-cep-v2.0)
 * [Game - Whac a mole](https://github.com/lucasrenandns/whac-a-mole)
 * [Calculadora v2.0](https://github.com/lucasrenandns/calculadora-v2.0)
 * [Cronômetro v3.0](https://github.com/lucasrenandns/cronometro-v3.0)
