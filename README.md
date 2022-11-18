@@ -30,7 +30,7 @@
 
 * [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
 * [Esfera de 7 Estrelas](https://github.com/lucasrenandns/Esfera_Sete_Estrelas)
-* [Efeito - Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
+* [Efeito Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
 * [Menu Animado](https://github.com/lucasrenandns/menu_Animado)
 * [Tela de Loading](https://github.com/lucasrenandns/animation_Loading)
 * [Texto Animado](https://github.com/lucasrenandns/texto_Animado_v2.0)
@@ -57,6 +57,10 @@
 
 * [Slider Games](https://github.com/lucasrenandns/slider-games)
 * [Slider Imagens](https://github.com/lucasrenandns/slider-html-css)
+
+#### Portfólio
+
+* [Portfólio](https://github.com/lucasrenandns/portfolio)
 
 #### Card
 
