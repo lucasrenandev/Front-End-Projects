@@ -76,6 +76,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Scroll Reveal](https://github.com/lucasrenandns/ScrollReveal_Website)
 * [Efeito Matrix](https://github.com/lucasrenandns/matrix_Effect)
 * [Pokedex](https://github.com/lucasrenandns/pokedex)
 * [Consulta de Cep v2.0](https://github.com/lucasrenandns/consulta-cep-v2.0)
