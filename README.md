@@ -45,11 +45,6 @@
 * [Css Grid - Flexbox](https://github.com/lucasrenandns/CSS_Grid_Flexbox)
 * [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
 
-#### Formulário 
-
-* [Formulário com envio de e-mail](https://github.com/lucasrenandns/formulario)
-* [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
-
 #### E-Commerce
 
 * [E-Commerce 02](https://github.com/lucasrenandns/ecommerceWebsite_02)
@@ -58,6 +53,11 @@
 #### Portfólio
 
 * [Portfólio 01](https://github.com/lucasrenandns/portfolio)
+
+#### Formulário 
+
+* [Formulário com envio de e-mail](https://github.com/lucasrenandns/formulario)
+* [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 
 #### Tela de Login
 
