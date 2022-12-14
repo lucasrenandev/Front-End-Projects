@@ -63,7 +63,8 @@
 
 #### Ecommerce
 
-* [Ecommerce 01](https://github.com/lucasrenandns/ecommerceWebsite-01)
+* [E-Commerce 02](https://github.com/lucasrenandns/ecommerceWebsite_02)
+* [E-Commerce 01](https://github.com/lucasrenandns/ecommerceWebsite-01)
 
 #### Portfólio
 
