@@ -50,6 +50,15 @@
 * [Formulário com envio de e-mail](https://github.com/lucasrenandns/formulario)
 * [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
 
+#### E-Commerce
+
+* [E-Commerce 02](https://github.com/lucasrenandns/ecommerceWebsite_02)
+* [E-Commerce 01](https://github.com/lucasrenandns/ecommerceWebsite-01)
+
+#### Portfólio
+
+* [Portfólio](https://github.com/lucasrenandns/portfolio)
+
 #### Tela de Login
 
 * [Tela de Login](https://github.com/lucasrenandns/tela-de-login-3)
@@ -60,15 +69,6 @@
 
 * [Slider Games](https://github.com/lucasrenandns/slider-games)
 * [Slider Imagens](https://github.com/lucasrenandns/slider-html-css)
-
-#### Ecommerce
-
-* [E-Commerce 02](https://github.com/lucasrenandns/ecommerceWebsite_02)
-* [E-Commerce 01](https://github.com/lucasrenandns/ecommerceWebsite-01)
-
-#### Portfólio
-
-* [Portfólio](https://github.com/lucasrenandns/portfolio)
 
 #### Card
 
