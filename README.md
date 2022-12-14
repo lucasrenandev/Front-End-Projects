@@ -35,10 +35,10 @@
 * [Esfera de 7 Estrelas](https://github.com/lucasrenandns/Esfera_Sete_Estrelas)
 * [Efeito Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
 * [Menu Animado](https://github.com/lucasrenandns/menu_Animado)
-* [Tela de Loading](https://github.com/lucasrenandns/animation_Loading)
-* [Texto Animado](https://github.com/lucasrenandns/texto_Animado_v2.0)
-* [Texto Animado](https://github.com/lucasrenandns/texto_Animado)
-* [Tela de Loading - LinkedIn](https://github.com/lucasrenandns/animation_LinkedIn)
+* [Texto Animado - 02](https://github.com/lucasrenandns/texto_Animado_v2.0)
+* [Texto Animado - 01](https://github.com/lucasrenandns/texto_Animado)
+* [Tela de Loading - 02](https://github.com/lucasrenandns/animation_Loading)
+* [Tela de Loading - 01](https://github.com/lucasrenandns/animation_LinkedIn)
 
 #### CSS Grid - Flexbox
 
@@ -47,8 +47,8 @@
 
 #### E-Commerce
 
-* [E-Commerce 02](https://github.com/lucasrenandns/ecommerceWebsite_02)
-* [E-Commerce 01](https://github.com/lucasrenandns/ecommerceWebsite-01)
+* [E-Commerce - 02](https://github.com/lucasrenandns/ecommerceWebsite_02)
+* [E-Commerce - 01](https://github.com/lucasrenandns/ecommerceWebsite-01)
 
 #### Portfólio
 
@@ -61,9 +61,9 @@
 
 #### Tela de Login
 
-* [Tela de Login](https://github.com/lucasrenandns/tela-de-login-3)
-* [Tela de Login](https://github.com/lucasrenandns/tela-de-login)
-* [Tela de Login](https://github.com/lucasrenandns/tela-de-login-simples)
+* [Tela de Login - 03](https://github.com/lucasrenandns/tela-de-login-3)
+* [Tela de Login - 02](https://github.com/lucasrenandns/tela-de-login)
+* [Tela de Login - 01](https://github.com/lucasrenandns/tela-de-login-simples)
 
 #### Slider
 
