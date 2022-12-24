@@ -80,7 +80,8 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
-* [Slider - Anime](https://github.com/lucasrenandns/slider_manga)
+* [Slider - Anime v2.0](https://github.com/lucasrenandns/slider_anime_v2.0)
+* [Slider - Anime v1.0](https://github.com/lucasrenandns/slider_manga)
 * [Parallax Scrolling](https://github.com/lucasrenandns/Parallax-Scrolling)
 * [Scroll Reveal](https://github.com/lucasrenandns/ScrollReveal_Website)
 * [Efeito Matrix](https://github.com/lucasrenandns/matrix_Effect)
