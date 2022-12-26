@@ -80,6 +80,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Art - Slider v1.0](https://github.com/lucasrenandns/art_slider)
 * [Slider - Anime v2.0](https://github.com/lucasrenandns/slider_anime_v2.0)
 * [Slider - Anime v1.0](https://github.com/lucasrenandns/slider_anime)
 * [Parallax Scrolling](https://github.com/lucasrenandns/Parallax-Scrolling)
