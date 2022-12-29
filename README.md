@@ -16,6 +16,7 @@
 
 #### Website
 
+* [Tour and Travel](https://github.com/lucasrenandns/tour-and-travel-website)
 * [Bully Scholarship Edition](https://github.com/lucasrenandns/Bully_Game)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Website - Restaurante](https://github.com/lucasrenandns/website_Restaurant)
@@ -80,7 +81,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
-* [Art - Slider v.20](https://github.com/lucasrenandns/art_slider_v2.0)
+* [Art - Slider v2.0](https://github.com/lucasrenandns/art_slider_v2.0)
 * [Art - Slider v1.0](https://github.com/lucasrenandns/art_slider)
 * [Slider - Anime v2.0](https://github.com/lucasrenandns/slider_anime_v2.0)
 * [Slider - Anime v1.0](https://github.com/lucasrenandns/slider_anime)
