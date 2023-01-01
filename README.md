@@ -81,6 +81,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Relógio Analógico v2.0](https://github.com/lucasrenandns/relogio_analogico_v2.0)
 * [Art - Slider v2.0](https://github.com/lucasrenandns/art_slider_v2.0)
 * [Art - Slider v1.0](https://github.com/lucasrenandns/art_slider)
 * [Slider - Anime v2.0](https://github.com/lucasrenandns/slider_anime_v2.0)
