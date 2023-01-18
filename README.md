@@ -83,6 +83,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Gerador de Gradiente v2.0](https://github.com/lucasrenandns/gerador-de-gradiente-v2.0)
 * [Efeito Digitação v2.0](https://github.com/lucasrenandns/efeito-digitacao-v2.0)
 * [Gerador de Cores v2.0](https://github.com/lucasrenandns/gerador-de-cores-v2.0)
 * [Relógio Analógico v2.0](https://github.com/lucasrenandns/relogio_analogico_v2.0)
