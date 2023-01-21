@@ -30,6 +30,17 @@
 * [Projeto - One Page - 01](https://github.com/lucasrenandns/one-page)
 * [Projeto - Flampic](https://github.com/lucasrenandns/flampic)
 
+#### CSS Animation
+
+* [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
+* [Esfera de 7 Estrelas](https://github.com/lucasrenandns/Esfera_Sete_Estrelas)
+* [Efeito Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
+* [Menu Animado](https://github.com/lucasrenandns/menu_Animado)
+* [Texto Animado - 02](https://github.com/lucasrenandns/texto_Animado_v2.0)
+* [Texto Animado - 01](https://github.com/lucasrenandns/texto_Animado)
+* [Tela de Loading - 02](https://github.com/lucasrenandns/animation_Loading)
+* [Tela de Loading - 01](https://github.com/lucasrenandns/animation_LinkedIn)
+
 #### E-Commerce
 
 * [E-Commerce - 03](https://github.com/lucasrenandns/ecommerce-website-03)
@@ -41,17 +52,6 @@
 
 * [Portfólio - 02](https://github.com/lucasrenandns/portfolio-02)
 * [Portfólio - 01](https://github.com/lucasrenandns/portfolio)
-
-#### CSS Animation
-
-* [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
-* [Esfera de 7 Estrelas](https://github.com/lucasrenandns/Esfera_Sete_Estrelas)
-* [Efeito Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
-* [Menu Animado](https://github.com/lucasrenandns/menu_Animado)
-* [Texto Animado - 02](https://github.com/lucasrenandns/texto_Animado_v2.0)
-* [Texto Animado - 01](https://github.com/lucasrenandns/texto_Animado)
-* [Tela de Loading - 02](https://github.com/lucasrenandns/animation_Loading)
-* [Tela de Loading - 01](https://github.com/lucasrenandns/animation_LinkedIn)
 
 #### CSS Grid - Flexbox
 
