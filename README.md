@@ -41,11 +41,6 @@
 * [Tela de Loading - 02](https://github.com/lucasrenandns/animation_Loading)
 * [Tela de Loading - 01](https://github.com/lucasrenandns/animation_LinkedIn)
 
-#### CSS Grid - Flexbox
-
-* [Css Grid - Flexbox](https://github.com/lucasrenandns/CSS_Grid_Flexbox)
-* [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
-
 #### E-Commerce
 
 * [E-Commerce - 03](https://github.com/lucasrenandns/ecommerce-website-03)
@@ -57,6 +52,11 @@
 
 * [Portfólio - 02](https://github.com/lucasrenandns/portfolio-02)
 * [Portfólio - 01](https://github.com/lucasrenandns/portfolio)
+
+#### CSS Grid - Flexbox
+
+* [Css Grid - Flexbox](https://github.com/lucasrenandns/CSS_Grid_Flexbox)
+* [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
 
 #### Formulário 
 
