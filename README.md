@@ -86,6 +86,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Efeito Matrix v2.0](https://github.com/lucasrenandns/Matrix_Effect_v2.0)
 * [Gerador de Gradiente v2.0](https://github.com/lucasrenandns/gerador-de-gradiente-v2.0)
 * [Efeito Digitação v2.0](https://github.com/lucasrenandns/efeito-digitacao-v2.0)
 * [Gerador de Cores v2.0](https://github.com/lucasrenandns/gerador-de-cores-v2.0)
