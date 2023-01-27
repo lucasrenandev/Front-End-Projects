@@ -95,7 +95,7 @@
 * [Art - Slider v1.0](https://github.com/lucasrenandns/art_slider)
 * [Slider - Anime v2.0](https://github.com/lucasrenandns/slider_anime_v2.0)
 * [Slider - Anime v1.0](https://github.com/lucasrenandns/slider_anime)
-* [Parallax Scrolling](https://github.com/lucasrenandns/Parallax-Scrolling)
+* [Parallax Scrolling](https://github.com/lucasrenandns/parallax-scrolling-website)
 * [Scroll Reveal](https://github.com/lucasrenandns/ScrollReveal_Website)
 * [Efeito Matrix](https://github.com/lucasrenandns/matrix_Effect)
 * [Pokedex](https://github.com/lucasrenandns/pokedex)
