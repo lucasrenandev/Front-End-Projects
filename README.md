@@ -86,9 +86,10 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Menu Hambúrguer](https://github.com/lucasrenandns/hamburger-menu)
 * [Efeito Matrix v2.0](https://github.com/lucasrenandns/Matrix_Effect_v2.0)
 * [Gerador de Gradiente v2.0](https://github.com/lucasrenandns/gerador-de-gradiente-v2.0)
-* [Efeito Digitação v2.0](https://github.com/lucasrenandns/efeito-digitacao-v2.0)
+* [Efeito de Digitação v2.0](https://github.com/lucasrenandns/efeito-digitacao-v2.0)
 * [Gerador de Cores v2.0](https://github.com/lucasrenandns/gerador-de-cores-v2.0)
 * [Relógio Analógico v2.0](https://github.com/lucasrenandns/relogio_analogico_v2.0)
 * [Art - Slider v2.0](https://github.com/lucasrenandns/art_slider_v2.0)
@@ -97,8 +98,8 @@
 * [Slider - Anime v1.0](https://github.com/lucasrenandns/slider_anime)
 * [Parallax Scrolling](https://github.com/lucasrenandns/parallax-scrolling-website)
 * [Scroll Reveal](https://github.com/lucasrenandns/ScrollReveal_Website)
-* [Efeito Matrix](https://github.com/lucasrenandns/matrix_Effect)
-* [Pokedex](https://github.com/lucasrenandns/pokedex)
+* [Efeito Matrix v1.0](https://github.com/lucasrenandns/matrix_Effect)
+* [Pokedex v1.0](https://github.com/lucasrenandns/pokedex)
 * [Consulta de Cep v2.0](https://github.com/lucasrenandns/consulta-cep-v2.0)
 * [Game - Whac a mole](https://github.com/lucasrenandns/whac-a-mole)
 * [Calculadora v2.0](https://github.com/lucasrenandns/calculadora-v2.0)
@@ -140,7 +141,7 @@
 * [Show Password](https://github.com/lucasrenandns/show-password)
 * [Efeito Maquina de escrever](https://github.com/lucasrenandns/efeito-maquina-de-escrever)
 * [Consulta de CEP](https://github.com/lucasrenandns/consulta-cep)
-* [Menu Mobile](https://github.com/lucasrenandns/menu-mobile)
+* [Mobile Menu](https://github.com/lucasrenandns/menu-mobile)
 * [Estudos em JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
 * [Estudo/Curso JavaScript](https://github.com/lucasrenandns/JavaScript)
 * [Estudo/Curso Python](https://github.com/lucasrenandns/Python-3)
