@@ -86,6 +86,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Typewriter Effect](https://github.com/lucasrenandns/typewriter-effect)
 * [Menu Hambúrguer](https://github.com/lucasrenandns/hamburger-menu)
 * [Efeito Matrix v2.0](https://github.com/lucasrenandns/Matrix_Effect_v2.0)
 * [Gerador de Gradiente v2.0](https://github.com/lucasrenandns/gerador-de-gradiente-v2.0)
