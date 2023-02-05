@@ -16,10 +16,11 @@
 
 #### Website
 
+* [Website - Restaurante 02](https://github.com/lucasrenandns/website-restaurante-02)
 * [Tour and Travel](https://github.com/lucasrenandns/tour-and-travel-website)
 * [Bully Scholarship Edition](https://github.com/lucasrenandns/Bully_Game)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
-* [Website - Restaurante](https://github.com/lucasrenandns/website_Restaurant)
+* [Website - Restaurante 01](https://github.com/lucasrenandns/website_Restaurant)
 * [Website - Mentes Criativas](https://github.com/lucasrenandns/Website_MentesCriativas)
 * [Website - Moviezone](https://github.com/lucasrenandns/Website_Moviezone)
 * [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
