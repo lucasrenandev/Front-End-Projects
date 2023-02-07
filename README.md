@@ -16,11 +16,11 @@
 
 #### Website
 
-* [Website - Restaurante 02](https://github.com/lucasrenandns/website-restaurante-02)
+* [Website Restaurante - 02](https://github.com/lucasrenandns/website-restaurante-02)
 * [Tour and Travel](https://github.com/lucasrenandns/tour-and-travel-website)
 * [Bully Scholarship Edition](https://github.com/lucasrenandns/Bully_Game)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
-* [Website - Restaurante 01](https://github.com/lucasrenandns/website_Restaurant)
+* [Website Restaurante - 01](https://github.com/lucasrenandns/website_Restaurant)
 * [Website - Mentes Criativas](https://github.com/lucasrenandns/Website_MentesCriativas)
 * [Website - Moviezone](https://github.com/lucasrenandns/Website_Moviezone)
 * [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
@@ -52,9 +52,9 @@
 
 #### Portfólio
 
-* [Portfólio Website 03](https://github.com/lucasrenandns/portfolio-website-03)
-* [Portfólio Website 02](https://github.com/lucasrenandns/portfolio-02)
-* [Portfólio Website 01](https://github.com/lucasrenandns/portfolio)
+* [Portfólio Website - 03](https://github.com/lucasrenandns/portfolio-website-03)
+* [Portfólio Website - 02](https://github.com/lucasrenandns/portfolio-02)
+* [Portfólio Website - 01](https://github.com/lucasrenandns/portfolio)
 
 #### CSS Grid - Flexbox
 
