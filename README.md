@@ -87,6 +87,7 @@
 
 # *Projetos/Estudos com linguagens de programação.*
 
+* [Gerador de Senha v2.0](https://github.com/lucasrenandns/Gerador_de_Senha_v2.0)
 * [Typewriter Effect](https://github.com/lucasrenandns/typewriter-effect)
 * [Menu Hambúrguer](https://github.com/lucasrenandns/hamburger-menu)
 * [Efeito Matrix v2.0](https://github.com/lucasrenandns/Matrix_Effect_v2.0)
