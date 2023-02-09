@@ -17,7 +17,7 @@
 #### Website
 
 * [Website Restaurante - 02](https://github.com/lucasrenandns/website-restaurante-02)
-* [Tour and Travel](https://github.com/lucasrenandns/tour-and-travel-website)
+* [Tour and Travel - 01](https://github.com/lucasrenandns/tour-and-travel-website)
 * [Bully Scholarship Edition](https://github.com/lucasrenandns/Bully_Game)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Website Restaurante - 01](https://github.com/lucasrenandns/website_Restaurant)
@@ -30,17 +30,6 @@
 * [Projeto - One Page - 02](https://github.com/lucasrenandns/one-page-html-css)
 * [Projeto - One Page - 01](https://github.com/lucasrenandns/one-page)
 * [Projeto - Flampic](https://github.com/lucasrenandns/flampic)
-
-#### CSS Animation
-
-* [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
-* [Esfera de 7 Estrelas](https://github.com/lucasrenandns/Esfera_Sete_Estrelas)
-* [Efeito Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
-* [Menu Animado](https://github.com/lucasrenandns/menu_Animado)
-* [Texto Animado - 02](https://github.com/lucasrenandns/texto_Animado_v2.0)
-* [Texto Animado - 01](https://github.com/lucasrenandns/texto_Animado)
-* [Tela de Loading - 02](https://github.com/lucasrenandns/animation_Loading)
-* [Tela de Loading - 01](https://github.com/lucasrenandns/animation_LinkedIn)
 
 #### E-Commerce
 
@@ -55,6 +44,17 @@
 * [Portfólio Website - 03](https://github.com/lucasrenandns/portfolio-website-03)
 * [Portfólio Website - 02](https://github.com/lucasrenandns/portfolio-02)
 * [Portfólio Website - 01](https://github.com/lucasrenandns/portfolio)
+
+#### CSS Animation
+
+* [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
+* [Esfera de 7 Estrelas](https://github.com/lucasrenandns/Esfera_Sete_Estrelas)
+* [Efeito Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
+* [Menu Animado](https://github.com/lucasrenandns/menu_Animado)
+* [Texto Animado - 02](https://github.com/lucasrenandns/texto_Animado_v2.0)
+* [Texto Animado - 01](https://github.com/lucasrenandns/texto_Animado)
+* [Tela de Loading - 02](https://github.com/lucasrenandns/animation_Loading)
+* [Tela de Loading - 01](https://github.com/lucasrenandns/animation_LinkedIn)
 
 #### CSS Grid - Flexbox
 
