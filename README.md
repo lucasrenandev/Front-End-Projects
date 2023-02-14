@@ -1,18 +1,4 @@
-
-# *Projetos/Estudos com HTML e CSS.*
-
-#### Landing Page
-
-* [Landing Page - Headphone](https://github.com/lucasrenandns/landingPage_Headphone)
-* [Landing Page - Iphone 13](https://github.com/lucasrenandns/landingPage_Iphone13)
-* [Landing Page - The Boys](https://github.com/lucasrenandns/landing-page_TheBoys)
-* [Landing Page - StarBucks](https://github.com/lucasrenandns/landing-page-starbucks)
-* [Landing Page - Spider-Man](https://github.com/lucasrenandns/landing-page-spiderman)
-* [Landing Page - Refreshment](https://github.com/lucasrenandns/landing-page-refreshment)
-* [Landing Page - Services](https://github.com/lucasrenandns/landing-page-services)
-* [Landing Page - Marketing](https://github.com/lucasrenandns/landing-page-marketing)
-* [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
-* [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
+# *Websites com HTML, CSS e JAVASCRIPT*
 
 #### Website
 
@@ -43,6 +29,19 @@
 * [Portfólio Website - 02](https://github.com/lucasrenandns/portfolio-02)
 * [Portfólio Website - 01](https://github.com/lucasrenandns/portfolio)
 
+#### Landing Page
+
+* [Landing Page - Headphone](https://github.com/lucasrenandns/landingPage_Headphone)
+* [Landing Page - Iphone 13](https://github.com/lucasrenandns/landingPage_Iphone13)
+* [Landing Page - The Boys](https://github.com/lucasrenandns/landing-page_TheBoys)
+* [Landing Page - StarBucks](https://github.com/lucasrenandns/landing-page-starbucks)
+* [Landing Page - Spider-Man](https://github.com/lucasrenandns/landing-page-spiderman)
+* [Landing Page - Refreshment](https://github.com/lucasrenandns/landing-page-refreshment)
+* [Landing Page - Services](https://github.com/lucasrenandns/landing-page-services)
+* [Landing Page - Marketing](https://github.com/lucasrenandns/landing-page-marketing)
+* [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
+* [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
+
 #### CSS Animation
 
 * [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
@@ -54,28 +53,7 @@
 * [Tela de Loading - 02](https://github.com/lucasrenandns/animation_Loading)
 * [Tela de Loading - 01](https://github.com/lucasrenandns/animation_LinkedIn)
 
-#### CSS Grid - Flexbox
-
-* [Css Grid - Flexbox](https://github.com/lucasrenandns/CSS_Grid_Flexbox)
-* [Galeria com css grid](https://github.com/lucasrenandns/galeria-css-grid)
-
-#### Formulário 
-
-* [Formulário com envio de e-mail](https://github.com/lucasrenandns/formulario)
-* [Tela de Cadastro](https://github.com/lucasrenandns/tela-de-cadastro)
-
-#### Tela de Login
-
-* [Tela de Login - 03](https://github.com/lucasrenandns/tela-de-login-3)
-* [Tela de Login - 02](https://github.com/lucasrenandns/tela-de-login)
-* [Tela de Login - 01](https://github.com/lucasrenandns/tela-de-login-simples)
-
-#### Slider
-
-* [Slider Games](https://github.com/lucasrenandns/slider-games)
-* [Slider Imagens](https://github.com/lucasrenandns/slider-html-css)
-
-# *Projetos/Estudos com linguagens de programação.*
+# *Projetos com JAVASCRIPT*
 
 * [Counter v2.0](https://github.com/lucasrenandns/Counter-v2.0)
 * [Gerador de Senha v2.0](https://github.com/lucasrenandns/Gerador_de_Senha_v2.0)
