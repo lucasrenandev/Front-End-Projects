@@ -27,9 +27,6 @@
 * [Website - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Website - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Website - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
-* [Projeto - One Page - 02](https://github.com/lucasrenandns/one-page-html-css)
-* [Projeto - One Page - 01](https://github.com/lucasrenandns/one-page)
-* [Projeto - Flampic](https://github.com/lucasrenandns/flampic)
 
 #### E-Commerce
 
@@ -77,14 +74,6 @@
 
 * [Slider Games](https://github.com/lucasrenandns/slider-games)
 * [Slider Imagens](https://github.com/lucasrenandns/slider-html-css)
-
-#### Card
-
-* [Flip Card](https://github.com/lucasrenandns/flip_Card)
-
-#### Página de Produto
-* [Página de Produto - Sneakers](https://github.com/lucasrenandns/projeto-sneakers)
-* [Página de Produto - Puma](https://github.com/lucasrenandns/pagina-de-produto)
 
 # *Projetos/Estudos com linguagens de programação.*
 
@@ -147,6 +136,3 @@
 * [Efeito Maquina de escrever](https://github.com/lucasrenandns/efeito-maquina-de-escrever)
 * [Consulta de CEP](https://github.com/lucasrenandns/consulta-cep)
 * [Mobile Menu](https://github.com/lucasrenandns/menu-mobile)
-* [Estudos em JavaScript](https://github.com/lucasrenandns/Estudos-em-JavaScript)
-* [Estudo/Curso JavaScript](https://github.com/lucasrenandns/JavaScript)
-* [Estudo/Curso Python](https://github.com/lucasrenandns/Python-3)
