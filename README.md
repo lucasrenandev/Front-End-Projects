@@ -44,7 +44,7 @@
 
 # *Projetos com JAVASCRIPT*
 
-* [Counter v2.0](https://github.com/lucasrenandns/Counter-v2.0)
+* [Counter v2.0 - ReactJS](https://github.com/lucasrenandns/Counter-v2.0)
 * [Gerador de Senha v2.0](https://github.com/lucasrenandns/Gerador_de_Senha_v2.0)
 * [Typewriter Effect](https://github.com/lucasrenandns/typewriter-effect)
 * [Menu Hambúrguer](https://github.com/lucasrenandns/hamburger-menu)
