@@ -42,17 +42,6 @@
 * [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
 
-#### CSS Animation
-
-* [Planeta Terra](https://github.com/lucasrenandns/animacao_PlanetaTerra)
-* [Esfera de 7 Estrelas](https://github.com/lucasrenandns/Esfera_Sete_Estrelas)
-* [Efeito Bolhas](https://github.com/lucasrenandns/efeito_Bolhas)
-* [Menu Animado](https://github.com/lucasrenandns/menu_Animado)
-* [Texto Animado - 02](https://github.com/lucasrenandns/texto_Animado_v2.0)
-* [Texto Animado - 01](https://github.com/lucasrenandns/texto_Animado)
-* [Tela de Loading - 02](https://github.com/lucasrenandns/animation_Loading)
-* [Tela de Loading - 01](https://github.com/lucasrenandns/animation_LinkedIn)
-
 # *Projetos com JAVASCRIPT*
 
 * [Counter v2.0](https://github.com/lucasrenandns/Counter-v2.0)
