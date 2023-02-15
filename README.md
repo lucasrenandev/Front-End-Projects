@@ -44,6 +44,7 @@
 
 # *Projetos com JAVASCRIPT*
 
+* [Gerador de Senha v3.0 - ReactJS](https://github.com/lucasrenandns/Gerador_de_Senha_v3.0)
 * [Counter v2.0 - ReactJS](https://github.com/lucasrenandns/Counter-v2.0)
 * [Gerador de Senha v2.0](https://github.com/lucasrenandns/Gerador_de_Senha_v2.0)
 * [Typewriter Effect](https://github.com/lucasrenandns/typewriter-effect)
