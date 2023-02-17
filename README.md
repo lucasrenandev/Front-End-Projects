@@ -1,4 +1,4 @@
-# *Websites com HTML, CSS e JAVASCRIPT*
+# Websites com HTML, CSS e JAVASCRIPT
 
 #### Website
 
@@ -43,7 +43,7 @@
 * [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
 
-# *Projetos com JAVASCRIPT*
+# Projetos com JAVASCRIPT
 
 * [Gerador de Senha v3.0 - ReactJS](https://github.com/lucasrenandns/Gerador_de_Senha_v3.0)
 * [Counter v2.0 - ReactJS](https://github.com/lucasrenandns/Counter-v2.0)
