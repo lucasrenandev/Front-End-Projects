@@ -31,6 +31,7 @@
 
 #### Landing Page
 
+* [Landing Page - Far Cry 3](https://github.com/lucasrenandns/landing-page-farcry-3)
 * [Landing Page - Headphone](https://github.com/lucasrenandns/landingPage_Headphone)
 * [Landing Page - Iphone 13](https://github.com/lucasrenandns/landingPage_Iphone13)
 * [Landing Page - The Boys](https://github.com/lucasrenandns/landing-page_TheBoys)
