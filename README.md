@@ -31,7 +31,7 @@
 
 #### Landing Page
 
-* [Landing Page - Far Cry 3](https://github.com/lucasrenandns/farcry3-landing-page)
+* [Landing Page - Far Cry 3 - ReactJS](https://github.com/lucasrenandns/farcry3-landing-page)
 * [Landing Page - Headphone](https://github.com/lucasrenandns/landingPage_Headphone)
 * [Landing Page - Iphone 13](https://github.com/lucasrenandns/landingPage_Iphone13)
 * [Landing Page - The Boys](https://github.com/lucasrenandns/landing-page_TheBoys)
@@ -45,6 +45,7 @@
 
 # Projetos com JAVASCRIPT
 
+* [Typewriter Effect v2.0 - ReactJS](https://github.com/lucasrenandns/typewriter-effect-v2.0)
 * [Review v2.0](https://github.com/lucasrenandns/review-v2.0)
 * [Digital Clock v2.0 - ReactJS](https://github.com/lucasrenandns/Digital_Clock_v2.0)
 * [Gerador de Senha v3.0 - ReactJS](https://github.com/lucasrenandns/Gerador_de_Senha_v3.0)
