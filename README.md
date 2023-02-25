@@ -45,6 +45,7 @@
 
 # Projetos com JAVASCRIPT
 
+* [Menu Hambúrguer v2.0 - ReactJS](https://github.com/lucasrenandns/menu-hamburguer-v2.0)
 * [Typewriter Effect v2.0 - ReactJS](https://github.com/lucasrenandns/typewriter-effect-v2.0)
 * [Review v2.0](https://github.com/lucasrenandns/review-v2.0)
 * [Digital Clock v2.0 - ReactJS](https://github.com/lucasrenandns/Digital_Clock_v2.0)
@@ -52,7 +53,7 @@
 * [Counter v2.0 - ReactJS](https://github.com/lucasrenandns/Counter-v2.0)
 * [Gerador de Senha v2.0](https://github.com/lucasrenandns/Gerador_de_Senha_v2.0)
 * [Typewriter Effect](https://github.com/lucasrenandns/typewriter-effect)
-* [Menu Hambúrguer](https://github.com/lucasrenandns/hamburger-menu)
+* [Menu Hambúrguer v1.0](https://github.com/lucasrenandns/hamburger-menu)
 * [Efeito Matrix v2.0](https://github.com/lucasrenandns/Matrix_Effect_v2.0)
 * [Gerador de Gradiente v2.0](https://github.com/lucasrenandns/gerador-de-gradiente-v2.0)
 * [Efeito de Digitação v2.0](https://github.com/lucasrenandns/efeito-digitacao-v2.0)
