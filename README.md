@@ -45,6 +45,7 @@
 
 # Projetos com JAVASCRIPT
 
+* [Gerador de Cores v3.0 - ReactJS](https://github.com/lucasrenandns/gerador_de_cores_v3.0)
 * [Menu Hambúrguer v2.0 - ReactJS](https://github.com/lucasrenandns/menu-hamburguer-v2.0)
 * [Typewriter Effect v2.0 - ReactJS](https://github.com/lucasrenandns/typewriter-effect-v2.0)
 * [Review v2.0](https://github.com/lucasrenandns/review-v2.0)
