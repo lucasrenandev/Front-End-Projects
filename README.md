@@ -45,6 +45,7 @@
 
 # Projetos com JAVASCRIPT
 
+* [Quiz App](https://github.com/lucasrenandns/quiz-app)
 * [Gerador de Cores v3.0 - ReactJS](https://github.com/lucasrenandns/gerador_de_cores_v3.0)
 * [Menu Hambúrguer v2.0 - ReactJS](https://github.com/lucasrenandns/menu-hamburguer-v2.0)
 * [Typewriter Effect v2.0 - ReactJS](https://github.com/lucasrenandns/typewriter-effect-v2.0)
