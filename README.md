@@ -4,7 +4,7 @@
 
 * [Tour and Travel - 02](https://github.com/lucasrenandns/tour-and-travel-website-02)
 * [Website Restaurante - 02](https://github.com/lucasrenandns/website-restaurante-02)
-* [Tour and Travel - 01](https://github.com/lucasrenandns/tour-and-travel-website)
+* [Tour and Travel - 01](https://github.com/lucasrenandns/tour-and-travel-website-01)
 * [Bully Scholarship Edition](https://github.com/lucasrenandns/Bully_Game)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Website Restaurante - 01](https://github.com/lucasrenandns/website_Restaurant)
