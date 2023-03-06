@@ -110,5 +110,3 @@
 * [Dark Mode](https://github.com/lucasrenandns/dark-mode)
 * [Show Password](https://github.com/lucasrenandns/show-password)
 * [Efeito Maquina de escrever](https://github.com/lucasrenandns/efeito-maquina-de-escrever)
-* [Consulta de CEP](https://github.com/lucasrenandns/consulta-cep)
-* [Mobile Menu](https://github.com/lucasrenandns/menu-mobile)
