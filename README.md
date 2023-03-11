@@ -1,4 +1,4 @@
-# Websites com HTML, CSS e JAVASCRIPT
+# Projetos com HTML, CSS e JAVASCRIPT
 
 #### Website
 
