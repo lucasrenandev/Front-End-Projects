@@ -9,12 +9,13 @@
 * [Bully Scholarship Edition](https://github.com/lucasrenandns/Bully_Game)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Website Restaurante - 01](https://github.com/lucasrenandns/website_Restaurant)
-* [Website - Mentes Criativas](https://github.com/lucasrenandns/Website_MentesCriativas)
-* [Website - Moviezone](https://github.com/lucasrenandns/Website_Moviezone)
-* [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
 * [Website - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Website - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Website - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
+* [Website - Mentes Criativas](https://github.com/lucasrenandns/Website_MentesCriativas)
+* [Website - Moviezone](https://github.com/lucasrenandns/Website_Moviezone)
+* [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
+
 
 #### E-Commerce
 
