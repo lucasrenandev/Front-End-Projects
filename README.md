@@ -2,7 +2,7 @@
 
 #### Website
 
-* [Catálogo de Carros 02 - ReactJS](https://github.com/lucasrenandns/car-catalog-website)
+* [Car Catalog - ReactJS](https://github.com/lucasrenandns/car-catalog-website)
 * [Food Website 02 - ReactJS](https://github.com/lucasrenandns/food-website-02)
 * [Food Website](https://github.com/lucasrenandns/food-website)
 * [Planet Earth - ReactJS](https://github.com/lucasrenandns/planet-earth-website)
@@ -11,7 +11,7 @@
 * [Tour and Travel - 01](https://github.com/lucasrenandns/tour-and-travel-website-01)
 * [Website Restaurante - 01](https://github.com/lucasrenandns/website_Restaurant)
 * [Bully Scholarship Edition](https://github.com/lucasrenandns/Bully_Game)
-* [Catálogo de Carros - 01](https://github.com/lucasrenandns/projeto-catalogo-carros)
+* [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
 * [Website - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Website - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Website - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
