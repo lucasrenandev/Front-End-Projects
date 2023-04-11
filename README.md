@@ -15,10 +15,6 @@
 * [Website - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
 * [Website - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
 * [Website - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
-* [Website - Mentes Criativas](https://github.com/lucasrenandns/Website_MentesCriativas)
-* [Website - Moviezone](https://github.com/lucasrenandns/Website_Moviezone)
-* [Website - Cidades](https://github.com/lucasrenandns/website-cidades)
-
 
 #### E-Commerce
 
