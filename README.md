@@ -51,6 +51,7 @@
 
 # Projetos com JAVASCRIPT
 
+* [Gerador de QR Code - ReactJS](https://github.com/lucasrenandns/gerador-de-qrcode-reactjs)
 * [Projeto Lâmpada - ReactJS](https://github.com/lucasrenandns/projeto-lampada02-ReactJS)
 * [Quiz App](https://github.com/lucasrenandns/quiz-app)
 * [Gerador de Cores v3.0 - ReactJS](https://github.com/lucasrenandns/gerador_de_cores_v3.0)
