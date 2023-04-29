@@ -51,6 +51,7 @@
 
 # Projetos com JAVASCRIPT
 
+* [Dark Mode - ReactJS](https://github.com/lucasrenandns/dark-mode-reactjs)
 * [Gerador de QR Code - ReactJS](https://github.com/lucasrenandns/gerador-de-qrcode-reactjs)
 * [Projeto Lâmpada - ReactJS](https://github.com/lucasrenandns/projeto-lampada02-ReactJS)
 * [Quiz App](https://github.com/lucasrenandns/quiz-app)
