@@ -53,6 +53,7 @@
 
 # Projetos com JAVASCRIPT
 
+* [Parallax Scrolling - ReactJS](https://github.com/lucasrenandns/parallax-scrolling-reactjs)
 * [Calculator - ReactJS](https://github.com/lucasrenandns/calculator-reactjs)
 * [Dark Mode - ReactJS](https://github.com/lucasrenandns/dark-mode-reactjs)
 * [Gerador de QR Code - ReactJS](https://github.com/lucasrenandns/gerador-de-qrcode-reactjs)
