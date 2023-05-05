@@ -53,6 +53,7 @@
 
 # Projetos com JAVASCRIPT
 
+* [Background Selector - ReactJS](https://github.com/lucasrenandns/background-selector)
 * [Parallax Scrolling - ReactJS](https://github.com/lucasrenandns/parallax-scrolling-reactjs)
 * [Calculator - ReactJS](https://github.com/lucasrenandns/calculator-reactjs)
 * [Dark Mode - ReactJS](https://github.com/lucasrenandns/dark-mode-reactjs)
