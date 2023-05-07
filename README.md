@@ -20,6 +20,7 @@
 
 * [E-Commerce - 04](https://github.com/lucasrenandns/ecommerce-website-04)
 * [E-Commerce - 03](https://github.com/lucasrenandns/ecommerce-website-03)
+* [E-Commerce 02 - ReactJS](https://github.com/lucasrenandns/ecommerce02-reactjs)
 * [E-Commerce - 02](https://github.com/lucasrenandns/ecommerceWebsite_02)
 * [E-Commerce 01 - ReactJS](https://github.com/lucasrenandns/ecommerce01-reactjs)
 * [E-Commerce - 01](https://github.com/lucasrenandns/ecommerceWebsite-01)
