@@ -54,6 +54,7 @@
 
 # Projetos com JAVASCRIPT
 
+* [Traffic Light App - ReactJS](https://github.com/lucasrenandns/trafficLightApp-reactjs)
 * [Background Selector - ReactJS](https://github.com/lucasrenandns/background-selector)
 * [Parallax Scrolling - ReactJS](https://github.com/lucasrenandns/parallax-scrolling-reactjs)
 * [Calculator - ReactJS](https://github.com/lucasrenandns/calculator-reactjs)
