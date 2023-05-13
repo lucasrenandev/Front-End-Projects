@@ -38,10 +38,12 @@
 
 #### Landing Page
 
-* [Landing Page - Headphone - ReactJS](https://github.com/lucasrenandns/landingPage-headphone-reactjs)
+
 * [Landing Page - Batman A.K - ReactJS](https://github.com/lucasrenandns/landing-page-batman)
 * [Landing Page - Far Cry 3 - ReactJS](https://github.com/lucasrenandns/farcry3-landing-page)
+* [Landing Page - Headphone - ReactJS](https://github.com/lucasrenandns/landingPage-headphone-reactjs)
 * [Landing Page - Headphone](https://github.com/lucasrenandns/landingPage_Headphone)
+* [Landing Page - Iphone 13 - ReactJS](https://github.com/lucasrenandns/landingPage-iphone13-reactjs)
 * [Landing Page - Iphone 13](https://github.com/lucasrenandns/landingPage_Iphone13)
 * [Landing Page - The Boys](https://github.com/lucasrenandns/landing-page_TheBoys)
 * [Landing Page - StarBucks](https://github.com/lucasrenandns/landing-page-starbucks)
