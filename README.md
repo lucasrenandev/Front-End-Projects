@@ -1,4 +1,4 @@
-# Projetos com HTML, CSS e JAVASCRIPT
+# HTML | CSS | JAVASCRIPT
 
 #### Website
 
@@ -39,7 +39,6 @@
 
 #### Landing Page
 
-
 * [Landing Page - Batman A.K - ReactJS](https://github.com/lucasrenandns/landing-page-batman)
 * [Landing Page - Far Cry 3 - ReactJS](https://github.com/lucasrenandns/farcry3-landing-page)
 * [Landing Page - Headphone - ReactJS](https://github.com/lucasrenandns/landingPage-headphone-reactjs)
@@ -55,7 +54,7 @@
 * [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
 
-# Projetos com JAVASCRIPT
+# JAVASCRIPT
 
 * [Traffic Light App - ReactJS](https://github.com/lucasrenandns/trafficLightApp-reactjs)
 * [Background Selector - ReactJS](https://github.com/lucasrenandns/background-selector)
