@@ -55,7 +55,7 @@
 * [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
 
-# JAVASCRIPT
+# JAVASCRIPT APP
 
 * [Traffic Light App - ReactJS](https://github.com/lucasrenandns/trafficLightApp-reactjs)
 * [Background Selector - ReactJS](https://github.com/lucasrenandns/background-selector)
