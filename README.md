@@ -58,6 +58,7 @@
 
 # JAVASCRIPT APP
 
+* [Gerador de Gradiente - ReactJS](https://github.com/lucasrenandns/gerador-de-gradiente-reactjs)
 * [Traffic Light App - ReactJS](https://github.com/lucasrenandns/trafficLightApp-reactjs)
 * [Background Selector - ReactJS](https://github.com/lucasrenandns/background-selector)
 * [Parallax Scrolling - ReactJS](https://github.com/lucasrenandns/parallax-scrolling-reactjs)
