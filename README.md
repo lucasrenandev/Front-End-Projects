@@ -101,7 +101,7 @@
 * [Jogo da Memória](https://github.com/lucasrenandns/Memory_Game)
 * [Game - JoKenPô](https://github.com/lucasrenandns/PedraPapelTesoura)
 * [Contador Regressivo](https://github.com/lucasrenandns/Contador_Regressivo)
-* [Projeto - Semáforo](https://github.com/lucasrenandns/projeto_Semaforo)
+* [Projeto Semáforo](https://github.com/lucasrenandns/projeto_Semaforo)
 * [Game - T-Rex](https://github.com/lucasrenandns/Game_T-Rex)
 * [Seletor - Background](https://github.com/lucasrenandns/seletor_Background)
 * [Efeito de Digitação](https://github.com/lucasrenandns/efeito_Digitacao)
