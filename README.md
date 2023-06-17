@@ -58,6 +58,7 @@
 
 # JAVASCRIPT APP
 
+* [Calculator v2.0 - ReactJS](https://github.com/lucasrenandns/calculatorv2.0-reactjs)
 * [Relógio Analógico - ReactJS](https://github.com/lucasrenandns/relogio-analogico-reactjs)
 * [Gerador de Gradiente - ReactJS](https://github.com/lucasrenandns/gerador-de-gradiente-reactjs)
 * [Traffic Light App - ReactJS](https://github.com/lucasrenandns/trafficLightApp-reactjs)
