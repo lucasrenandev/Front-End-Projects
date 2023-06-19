@@ -13,9 +13,9 @@
 * [Website Restaurante - 01](https://github.com/lucasrenandns/website_Restaurant)
 * [Bully Scholarship Edition](https://github.com/lucasrenandns/Bully_Game)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
-* [Website - Reecontrow](https://github.com/lucasrenandns/landing-page-reecontrow)
-* [Website - InDecor](https://github.com/lucasrenandns/landing-page-indecor)
-* [Website - Agência Digital](https://github.com/lucasrenandns/projeto-agencia-digital)
+* [Reecontrow - Website](https://github.com/lucasrenandns/landing-page-reecontrow)
+* [InDecor - Website](https://github.com/lucasrenandns/landing-page-indecor)
+* [Agência Digital - Website](https://github.com/lucasrenandns/projeto-agencia-digital)
 
 #### E-Commerce
 
