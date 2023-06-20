@@ -7,9 +7,9 @@
 * [Food Website - 01](https://github.com/lucasrenandns/food-website)
 * [Planet Earth - ReactJS](https://github.com/lucasrenandns/planet-earth-website)
 * [Tour and Travel - 02](https://github.com/lucasrenandns/tour-and-travel-website-02)
-* [Website Restaurante - 02](https://github.com/lucasrenandns/website-restaurante-02)
+* [Restaurante 02 - Website](https://github.com/lucasrenandns/website-restaurante-02)
 * [Tour and Travel - 01](https://github.com/lucasrenandns/tour-and-travel-website-01)
-* [Website Restaurante - 01](https://github.com/lucasrenandns/website_Restaurant)
+* [Restaurante 01 - Website](https://github.com/lucasrenandns/website_Restaurant)
 * [Bully Scholarship Edition](https://github.com/lucasrenandns/Bully_Game)
 * [Catálogo de Carros - ReactJS](https://github.com/lucasrenandns/car-catalog-website)
 * [Catálogo de Carros](https://github.com/lucasrenandns/projeto-catalogo-carros)
@@ -42,11 +42,11 @@
 
 #### Landing Page
 
-* [Landing Page - Batman A.K - ReactJS](https://github.com/lucasrenandns/landing-page-batman)
-* [Landing Page - Far Cry 3 - ReactJS](https://github.com/lucasrenandns/farcry3-landing-page)
-* [Landing Page - Headphone - ReactJS](https://github.com/lucasrenandns/landingPage-headphone-reactjs)
+* [Landing Page Batman A.K - ReactJS](https://github.com/lucasrenandns/landing-page-batman)
+* [Landing Page Far Cry 3 - ReactJS](https://github.com/lucasrenandns/farcry3-landing-page)
+* [Landing Page Headphone - ReactJS](https://github.com/lucasrenandns/landingPage-headphone-reactjs)
 * [Landing Page - Headphone](https://github.com/lucasrenandns/landingPage_Headphone)
-* [Landing Page - Iphone 13 - ReactJS](https://github.com/lucasrenandns/landingPage-iphone13-reactjs)
+* [Landing Page Iphone 13 - ReactJS](https://github.com/lucasrenandns/landingPage-iphone13-reactjs)
 * [Landing Page - Iphone 13](https://github.com/lucasrenandns/landingPage_Iphone13)
 * [Landing Page - The Boys](https://github.com/lucasrenandns/landing-page_TheBoys)
 * [Landing Page - StarBucks](https://github.com/lucasrenandns/landing-page-starbucks)
