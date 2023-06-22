@@ -42,6 +42,7 @@
 
 #### Landing Page
 
+* [Landing Page VR Agency - ReactJS](https://github.com/lucasrenandns/landingPage-VRagency-reactjs)
 * [Landing Page - VR Agency](https://github.com/lucasrenandns/landingPage-VRagency)
 * [Landing Page Batman A.K - ReactJS](https://github.com/lucasrenandns/landing-page-batman)
 * [Landing Page Far Cry 3 - ReactJS](https://github.com/lucasrenandns/farcry3-landing-page)
