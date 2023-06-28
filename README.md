@@ -62,6 +62,7 @@
 
 # JAVASCRIPT APP
 
+* [Slider - ReactJS](https://github.com/lucasrenandns/slider-reactjs)
 * [Calculator v2.0 - ReactJS](https://github.com/lucasrenandns/calculatorv2.0-reactjs)
 * [Relógio Analógico - ReactJS](https://github.com/lucasrenandns/relogio-analogico-reactjs)
 * [Gerador de Gradiente - ReactJS](https://github.com/lucasrenandns/gerador-de-gradiente-reactjs)
