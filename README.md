@@ -62,7 +62,7 @@
 
 # JAVASCRIPT APP
 
-* [To Do List App](https://github.com/lucasrenandns/to-do-list-app)
+* [To-Do List App](https://github.com/lucasrenandns/to-do-list-app)
 * [Slider - ReactJS](https://github.com/lucasrenandns/slider-reactjs)
 * [Calculator v2.0 - ReactJS](https://github.com/lucasrenandns/calculatorv2.0-reactjs)
 * [Relógio Analógico - ReactJS](https://github.com/lucasrenandns/relogio-analogico-reactjs)
