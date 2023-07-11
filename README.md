@@ -62,7 +62,7 @@
 
 # JAVASCRIPT APP
 
-* [Whac a Mole - ReactJS](https://github.com/lucasrenandns/whac-a-mole-reactjs)
+* [Whac a Mole Game - ReactJS](https://github.com/lucasrenandns/whac-a-mole-reactjs)
 * [Slider v2.0 - ReactJS](https://github.com/lucasrenandns/slider02-reactjs)
 * [Review - ReactJS](https://github.com/lucasrenandns/review-reactjs)
 * [To-Do List App - ReactJS](https://github.com/lucasrenandns/to-do-list-app-reactjs)
@@ -103,7 +103,7 @@
 * [Efeito Matrix v1.0](https://github.com/lucasrenandns/matrix_Effect)
 * [Pokedex v1.0](https://github.com/lucasrenandns/pokedex)
 * [Consulta de Cep v2.0](https://github.com/lucasrenandns/consulta-cep-v2.0)
-* [Game - Whac a mole](https://github.com/lucasrenandns/whac-a-mole)
+* [Whac a Mole Game](https://github.com/lucasrenandns/whac-a-mole)
 * [Calculadora v2.0](https://github.com/lucasrenandns/calculadora-v2.0)
 * [Cronômetro v3.0](https://github.com/lucasrenandns/cronometro-v3.0)
 * [Digital Clock](https://github.com/lucasrenandns/Digital_Clock)
@@ -114,7 +114,7 @@
 * [Game - JoKenPô](https://github.com/lucasrenandns/PedraPapelTesoura)
 * [Contador Regressivo](https://github.com/lucasrenandns/Contador_Regressivo)
 * [Projeto Semáforo](https://github.com/lucasrenandns/projeto_Semaforo)
-* [Game - T-Rex](https://github.com/lucasrenandns/Game_T-Rex)
+* [T-Rex - Game](https://github.com/lucasrenandns/Game_T-Rex)
 * [Seletor - Background](https://github.com/lucasrenandns/seletor_Background)
 * [Efeito de Digitação](https://github.com/lucasrenandns/efeito_Digitacao)
 * [Relógio Analógico](https://github.com/lucasrenandns/Relogio_Analogico)
