@@ -62,6 +62,7 @@
 
 # JAVASCRIPT APP
 
+* [Whac a Mole - ReactJS](https://github.com/lucasrenandns/whac-a-mole-reactjs)
 * [Slider v2.0 - ReactJS](https://github.com/lucasrenandns/slider02-reactjs)
 * [Review - ReactJS](https://github.com/lucasrenandns/review-reactjs)
 * [To-Do List App - ReactJS](https://github.com/lucasrenandns/to-do-list-app-reactjs)
