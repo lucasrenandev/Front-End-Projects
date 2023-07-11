@@ -111,7 +111,7 @@
 * [Counter Simple](https://github.com/lucasrenandns/counter)
 * [Color Flipper](https://github.com/lucasrenandns/Color_Flipper)
 * [Jogo da Memória](https://github.com/lucasrenandns/Memory_Game)
-* [Game - JoKenPô](https://github.com/lucasrenandns/PedraPapelTesoura)
+* [JoKenPô - Game](https://github.com/lucasrenandns/PedraPapelTesoura)
 * [Contador Regressivo](https://github.com/lucasrenandns/Contador_Regressivo)
 * [Projeto Semáforo](https://github.com/lucasrenandns/projeto_Semaforo)
 * [T-Rex - Game](https://github.com/lucasrenandns/Game_T-Rex)
