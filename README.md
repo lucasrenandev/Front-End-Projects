@@ -62,6 +62,7 @@
 
 # JAVASCRIPT APP
 
+* [Stopwatch - ReactJS](https://github.com/lucasrenandns/stopwatch-reactjs)
 * [Whac a Mole Game - ReactJS](https://github.com/lucasrenandns/whac-a-mole-reactjs)
 * [Slider v2.0 - ReactJS](https://github.com/lucasrenandns/slider02-reactjs)
 * [Review - ReactJS](https://github.com/lucasrenandns/review-reactjs)
