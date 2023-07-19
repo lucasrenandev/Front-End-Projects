@@ -62,6 +62,7 @@
 
 # JAVASCRIPT APP
 
+* [T-Rex Game - ReactJS](https://github.com/lucasrenandns/T-Rex-Game-ReactJS)
 * [Stopwatch - ReactJS](https://github.com/lucasrenandns/Stopwatch-ReactJS)
 * [Whac a Mole Game - ReactJS](https://github.com/lucasrenandns/whac-a-mole-reactjs)
 * [Slider v2.0 - ReactJS](https://github.com/lucasrenandns/slider02-reactjs)
