@@ -63,7 +63,7 @@
 
 # JAVASCRIPT APP
 
-* [Quiz App - ReactJS](https://github.com/lucasrenandns/quiz-app-reactjs)
+* [Quiz App - ReactJS](https://github.com/lucasrenandns/Quiz-App-ReactJS)
 * [T-Rex Game - ReactJS](https://github.com/lucasrenandns/T-Rex-Game-ReactJS)
 * [Stopwatch - ReactJS](https://github.com/lucasrenandns/Stopwatch-ReactJS)
 * [Whac a Mole Game - ReactJS](https://github.com/lucasrenandns/whac-a-mole-reactjs)
