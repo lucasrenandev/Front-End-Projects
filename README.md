@@ -63,7 +63,7 @@
 
 # JAVASCRIPT APP
 
-* [New Year Countdown - ReactJS](https://github.com/lucasrenandns/new-year-countdown-reactjs)
+* [New Year Countdown - ReactJS](https://github.com/lucasrenandns/New-Year-Countdown-ReactJS)
 * [Quiz App - ReactJS](https://github.com/lucasrenandns/Quiz-App-ReactJS)
 * [T-Rex Game - ReactJS](https://github.com/lucasrenandns/T-Rex-Game-ReactJS)
 * [Stopwatch - ReactJS](https://github.com/lucasrenandns/Stopwatch-ReactJS)
