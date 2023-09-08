@@ -19,19 +19,9 @@
 * [InDecor - Website](https://github.com/lucasrenandns/landing-page-indecor)
 * [Agência Digital - Website](https://github.com/lucasrenandns/projeto-agencia-digital)
 
-#### E-Commerce
-
-* [E-Commerce - 04](https://github.com/lucasrenandns/ecommerce-website-04)
-* [E-Commerce - 03](https://github.com/lucasrenandns/ecommerce-website-03)
-* [E-Commerce 02 - ReactJS](https://github.com/lucasrenandns/ecommerce02-reactjs)
-* [E-Commerce - 02](https://github.com/lucasrenandns/ecommerceWebsite_02)
-* [E-Commerce 01 - ReactJS](https://github.com/lucasrenandns/ecommerce01-reactjs)
-* [E-Commerce - 01](https://github.com/lucasrenandns/ecommerceWebsite-01)
-* [E-Commerce Page - ReactJS](https://github.com/lucasrenandns/ecommerce-page-reactjs)
-* [E-Commerce Page](https://github.com/lucasrenandns/ecommerce-page)
-
 #### Portfólio
 
+* [Portfólio Website - 07](https://github.com/lucasrenandns/portfolio-website-07)
 * [Portfólio Website - 06](https://github.com/lucasrenandns/portfolio-website-06)
 * [Portfólio 05 - ReactJS](https://github.com/lucasrenandns/portfolio05-reactjs)
 * [Portfólio Website - 05](https://github.com/lucasrenandns/portfolio-website-05)
@@ -43,6 +33,17 @@
 * [Portfólio Website - 02](https://github.com/lucasrenandns/portfolio-02)
 * [Portfólio 01 - ReactJS](https://github.com/lucasrenandns/portfolio01-reactjs)
 * [Portfólio Website - 01](https://github.com/lucasrenandns/portfolio)
+
+#### E-Commerce
+
+* [E-Commerce - 04](https://github.com/lucasrenandns/ecommerce-website-04)
+* [E-Commerce - 03](https://github.com/lucasrenandns/ecommerce-website-03)
+* [E-Commerce 02 - ReactJS](https://github.com/lucasrenandns/ecommerce02-reactjs)
+* [E-Commerce - 02](https://github.com/lucasrenandns/ecommerceWebsite_02)
+* [E-Commerce 01 - ReactJS](https://github.com/lucasrenandns/ecommerce01-reactjs)
+* [E-Commerce - 01](https://github.com/lucasrenandns/ecommerceWebsite-01)
+* [E-Commerce Page - ReactJS](https://github.com/lucasrenandns/ecommerce-page-reactjs)
+* [E-Commerce Page](https://github.com/lucasrenandns/ecommerce-page)
 
 #### Landing Page
 
