@@ -2,6 +2,7 @@
 
 #### Website
 
+* [Education Website](https://github.com/lucasrenandns/education-website)
 * [Pizza Website](https://github.com/lucasrenandns/pizza-website)
 * [Dentist Website](https://github.com/lucasrenandns/dentist-website)
 * [Tour and Travel - 04](https://github.com/lucasrenandns/tour-and-travel-website-04)
