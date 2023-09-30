@@ -69,6 +69,11 @@
 
 # JAVASCRIPT APP
 
+* [Text Translator](https://github.com/lucasrenandns/text-translator)
+* [Counter Up - Jquery](https://github.com/lucasrenandns/counterUp-jquery)
+* [Slider - Swiper](https://github.com/lucasrenandns/slider-swiperjs)
+* [Our Team - Swiper](https://github.com/lucasrenandns/our-team-swiperjs)
+* [SideBar Menu](https://github.com/lucasrenandns/sidebar-menu)
 * [Digital Clock - ReactJS](https://github.com/lucasrenandns/Digital_Clock_ReactJS)
 * [Color Flipper - ReactJS](https://github.com/lucasrenandns/Color_Flipper_ReactJS)
 * [Relógio Analógico v3.0](https://github.com/lucasrenandns/relogio_analogico_v3.0)
