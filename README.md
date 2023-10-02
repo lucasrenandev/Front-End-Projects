@@ -69,6 +69,7 @@
 
 # JAVASCRIPT APP
 
+* [Text Reader](https://github.com/lucasrenandns/text-reader)
 * [Text Translator](https://github.com/lucasrenandns/text-translator)
 * [Counter Up - Jquery](https://github.com/lucasrenandns/counterUp-jquery)
 * [Slider - Swiper](https://github.com/lucasrenandns/slider-swiperjs)
