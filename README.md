@@ -69,6 +69,8 @@
 
 # JAVASCRIPT APP
 
+* [Form Validation](https://github.com/lucasrenandns/form-validation)
+* [Menu Indicator](https://github.com/lucasrenandns/menu-indicator)
 * [Text Reader](https://github.com/lucasrenandns/text-reader)
 * [Text Translator](https://github.com/lucasrenandns/text-translator)
 * [Counter Up - Jquery](https://github.com/lucasrenandns/counterUp-jquery)
