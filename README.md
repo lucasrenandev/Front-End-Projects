@@ -69,6 +69,7 @@
 
 # JAVASCRIPT APP
 
+* [Text Translator v2.0](https://github.com/lucasrenandns/text-translator-v2.0)
 * [Form Validation](https://github.com/lucasrenandns/form-validation)
 * [Menu Indicator](https://github.com/lucasrenandns/menu-indicator)
 * [Text Reader](https://github.com/lucasrenandns/text-reader)
