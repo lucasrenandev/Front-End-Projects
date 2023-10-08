@@ -1,4 +1,4 @@
-# HTML | CSS | JAVASCRIPT
+# WEBSITES -  HTML | CSS | JAVASCRIPT
 
 #### Website
 
@@ -67,7 +67,7 @@
 * [Landing Page - Ambiente Livre](https://github.com/lucasrenandns/landing-page-ambiente-livre)
 * [Landing Page - Academia](https://github.com/lucasrenandns/landing-page-academia)
 
-# JAVASCRIPT APP
+# JAVASCRIPT APPLICATION
 
 * [Border Radius Generator](https://github.com/lucasrenandns/Border-Radius-Generator)
 * [Text Translator v2.0](https://github.com/lucasrenandns/text-translator-v2.0)
@@ -117,8 +117,6 @@
 * [Efeito de Digitação v2.0](https://github.com/lucasrenandns/efeito-digitacao-v2.0)
 * [Gerador de Cores v2.0](https://github.com/lucasrenandns/gerador-de-cores-v2.0)
 * [Relógio Analógico v2.0](https://github.com/lucasrenandns/relogio_analogico_v2.0)
-* [Slider - Art v2.0](https://github.com/lucasrenandns/art_slider_v2.0)
-* [Slider - Art v1.0](https://github.com/lucasrenandns/art_slider)
 * [Slider - Anime v2.0](https://github.com/lucasrenandns/slider_anime_v2.0)
 * [Slider - Anime v1.0](https://github.com/lucasrenandns/slider_anime)
 * [Parallax Scrolling](https://github.com/lucasrenandns/parallax-scrolling-website)
