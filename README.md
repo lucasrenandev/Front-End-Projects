@@ -71,6 +71,7 @@
 
 # JAVASCRIPT APPLICATION
 
+* [Text Reader - ReactJS](https://github.com/lucasrenandns/text-reader-reactjs)
 * [Drag & Drop - ReactJS](https://github.com/lucasrenandns/drag-and-drop-reactjs)
 * [Drag & Drop](https://github.com/lucasrenandns/drag-and-drop)
 * [Drag & Drop List](https://github.com/lucasrenandns/drag-and-drop-list)
