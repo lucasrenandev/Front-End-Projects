@@ -71,6 +71,7 @@
 
 # JAVASCRIPT APPLICATION
 
+* [Menu Indicator - ReactJS](https://github.com/lucasrenandns/menu-indicator-reactjs)
 * [Text Reader - ReactJS](https://github.com/lucasrenandns/text-reader-reactjs)
 * [Drag & Drop - ReactJS](https://github.com/lucasrenandns/drag-and-drop-reactjs)
 * [Drag & Drop](https://github.com/lucasrenandns/drag-and-drop)
