@@ -71,6 +71,7 @@
 
 # JAVASCRIPT APPLICATION
 
+* [3D Image Gallery - ReactJS](https://github.com/lucasrenandns/3d-image-gallery-reactjs)
 * [3D Image Gallery](https://github.com/lucasrenandns/3d-image-gallery)
 * [Menu Indicator - ReactJS](https://github.com/lucasrenandns/menu-indicator-reactjs)
 * [Text Reader - ReactJS](https://github.com/lucasrenandns/text-reader-reactjs)
