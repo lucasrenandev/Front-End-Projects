@@ -26,19 +26,19 @@
 #### Portfólio
 
 * [Portfólio 07 - ReactJS](https://github.com/lucasrenandns/portfolio07-reactjs)
-* [Portfólio - 07](https://github.com/lucasrenandns/portfolio-website-07)
+* [Portfólio 07](https://github.com/lucasrenandns/portfolio-website-07)
 * [Portfólio 06 - ReactJS](https://github.com/lucasrenandns/portfolio06-reactjs)
-* [Portfólio - 06](https://github.com/lucasrenandns/portfolio-website-06)
+* [Portfólio 06](https://github.com/lucasrenandns/portfolio-website-06)
 * [Portfólio 05 - ReactJS](https://github.com/lucasrenandns/portfolio05-reactjs)
-* [Portfólio - 05](https://github.com/lucasrenandns/portfolio-website-05)
+* [Portfólio 05](https://github.com/lucasrenandns/portfolio-website-05)
 * [Portfólio 04 - ReactJS](https://github.com/lucasrenandns/portfolio04-reactjs)
-* [Portfólio - 04](https://github.com/lucasrenandns/portfolio-website-04)
+* [Portfólio 04](https://github.com/lucasrenandns/portfolio-website-04)
 * [Portfólio 03 - ReactJS](https://github.com/lucasrenandns/portfolio03-reactjs)
-* [Portfólio - 03](https://github.com/lucasrenandns/portfolio-website-03)
+* [Portfólio 03](https://github.com/lucasrenandns/portfolio-website-03)
 * [Portfólio 02 - ReactJS](https://github.com/lucasrenandns/portfolio02-reactjs)
-* [Portfólio - 02](https://github.com/lucasrenandns/portfolio-02)
+* [Portfólio 02](https://github.com/lucasrenandns/portfolio-02)
 * [Portfólio 01 - ReactJS](https://github.com/lucasrenandns/portfolio01-reactjs)
-* [Portfólio - 01](https://github.com/lucasrenandns/portfolio)
+* [Portfólio 01](https://github.com/lucasrenandns/portfolio)
 
 #### E-Commerce
 
