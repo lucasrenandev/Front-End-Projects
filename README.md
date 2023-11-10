@@ -126,7 +126,6 @@
 * [Menu Hambúrguer v1.0](https://github.com/lucasrenandns/hamburger-menu)
 * [Efeito Matrix v2.0](https://github.com/lucasrenandns/Matrix_Effect_v2.0)
 * [Gerador de Gradiente v2.0](https://github.com/lucasrenandns/gerador-de-gradiente-v2.0)
-* [Efeito de Digitação v2.0](https://github.com/lucasrenandns/efeito-digitacao-v2.0)
 * [Gerador de Cores v2.0](https://github.com/lucasrenandns/gerador-de-cores-v2.0)
 * [Relógio Analógico v2.0](https://github.com/lucasrenandns/relogio_analogico_v2.0)
 * [Slider - Anime v2.0](https://github.com/lucasrenandns/slider_anime_v2.0)
