@@ -149,7 +149,6 @@
 * [Projeto Semáforo](https://github.com/lucasrenandns/projeto_Semaforo)
 * [T-Rex - Game](https://github.com/lucasrenandns/Game_T-Rex)
 * [Seletor - Background](https://github.com/lucasrenandns/seletor_Background)
-* [Efeito de Digitação](https://github.com/lucasrenandns/efeito_Digitacao)
 * [Relógio Analógico](https://github.com/lucasrenandns/Relogio_Analogico)
 * [Gerador de Gradiente](https://github.com/lucasrenandns/Gerador_de_Gradiente)
 * [Gerador de Cores](https://github.com/lucasrenandns/Gerador_de_Cores)
