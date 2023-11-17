@@ -75,6 +75,8 @@
 
 # JAVASCRIPT APPLICATION
 
+* [Weather App](https://github.com/lucasrenandns/Weather-App)
+* [Text Rain Animation](https://github.com/lucasrenandns/text-rain-animation)
 * [3D Image Gallery - ReactJS](https://github.com/lucasrenandns/3d-image-gallery-reactjs)
 * [3D Image Gallery](https://github.com/lucasrenandns/3d-image-gallery)
 * [Menu Indicator - ReactJS](https://github.com/lucasrenandns/menu-indicator-reactjs)
