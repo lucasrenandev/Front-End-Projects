@@ -75,6 +75,7 @@
 
 # JAVASCRIPT APPLICATION
 
+* [Music Player v2.0](https://github.com/lucasrenandns/Music-Player-v2.0)
 * [Music Player](https://github.com/lucasrenandns/Music-Player)
 * [Weather App v2.0](https://github.com/lucasrenandns/Weather-App-v2.0)
 * [Weather App](https://github.com/lucasrenandns/Weather-App)
