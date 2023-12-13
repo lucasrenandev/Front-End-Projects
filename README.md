@@ -4,4 +4,4 @@
 
 # JAVASCRIPT APPLICATION
 
-[JavaScript Application](https://github.com/lucasrenandns/js-aplication)
+[JavaScript Application](https://github.com/lucasrenandns/js-application)
