@@ -1,6 +1,6 @@
 # Front-End Projects
 
-## Websites -  HTML5 | CSS3 | JavaScript | React.js
+## Websites -  HTML5 | CSS3 | SASS | JavaScript | React.js
 
 [Front-End Websites](https://github.com/lucasrenandns/frontend-websites)
 
