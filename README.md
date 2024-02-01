@@ -1,4 +1,4 @@
-# WEBSITES -  HTML | CSS | JAVASCRIPT | React.js
+# WEBSITES -  HTML5 | CSS3 | JavaScript | React.js
 
 [Front-End Websites](https://github.com/lucasrenandns/frontend-websites)
 
