@@ -7,3 +7,7 @@
 ## JavaScript App | React.js App
 
 [JavaScript Application](https://github.com/lucasrenandns/js-application)
+
+## CSS/JavaScript Animation
+
+[CSS/JS Animations](https://github.com/lucasrenandev/CSS-Animations)
