@@ -8,6 +8,6 @@
 
 [JavaScript Application](https://github.com/lucasrenandns/js-application)
 
-## CSS/JavaScript Animation
+## CSS/JavaScript Animations
 
 [CSS/JS Animations](https://github.com/lucasrenandev/CSS-Animations)
